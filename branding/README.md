@@ -1,8 +1,8 @@
-# SnapOtter Brand Assets
+# AILLMIO Brand Assets
 
-Press kit for use in blog posts, articles, reviews, and other publications about SnapOtter. Free to use when referencing SnapOtter.
+Press kit for use in blog posts, articles, reviews, and other publications about AILLMIO. Free to use when referencing AILLMIO.
 
-SnapOtter is open-source, self-hosted file-processing infrastructure with 200+ tools across image, video, audio, PDF, and document workflows.
+AILLMIO is open-source, self-hosted file-processing infrastructure with 200+ tools across image, video, audio, PDF, and document workflows.
 
 ## Files
 
@@ -17,8 +17,8 @@ SnapOtter is open-source, self-hosted file-processing infrastructure with 200+ t
 | `logo-512-on-white.png` | 512x512 | Logo on white background (no transparency) |
 | `logo-512-on-dark.png` | 512x512 | Logo on dark background (no transparency) |
 | `social-preview.png` | 1280x640 | OpenGraph / social media preview |
-| `wordmark.svg` | Scalable | "SnapOtter" text mark (dark text) |
-| `wordmark-white.svg` | Scalable | "SnapOtter" text mark (white text, for dark backgrounds) |
+| `wordmark.svg` | Scalable | "AILLMIO" text mark (dark text) |
+| `wordmark-white.svg` | Scalable | "AILLMIO" text mark (white text, for dark backgrounds) |
 | `banner.svg` | Scalable | Wordmark + tagline banner on dark background |
 | `dashboard.gif` | Animated | Scrolling tour of all 200+ tools across the five modalities (README hero) |
 
@@ -26,7 +26,7 @@ SnapOtter is open-source, self-hosted file-processing infrastructure with 200+ t
 
 | Name | Hex | Usage |
 |------|-----|-------|
-| Otter Orange | `#E07832` | "Otter" in wordmark, buttons, links, CTAs |
+| AILLMIO Orange | `#E07832` | "AILLMIO" in wordmark, buttons, links, CTAs |
 | Orange Light | `#F09550` | Hover states |
 | Orange Dark | `#C06520` | Text emphasis on light backgrounds |
 | Dark Chocolate | `#1A1210` | Dark sections, banner background |
